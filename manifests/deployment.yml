@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: ajaymithireddyfrontendnew 
-          image: p2reg.azurecr.io/ajaymithireddyfrontendnew
+          image: myregi.azurecr.io/frontendnew
           ports:
           - containerPort: 4200
